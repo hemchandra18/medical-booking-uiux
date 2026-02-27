@@ -67,12 +67,14 @@ improving trust with ratings & doctor profiles
 providing confirmation feedback
 
 📱 Screens Included
-🏠 Homepage
+
+🏠 Homepage.png
 
 
-📅 Booking Screen
+📅 Booking Screen.png
 
-✅ Success Confirmation
+✅ Booking success.png
+
 
 
 🔗 Figma Prototype
