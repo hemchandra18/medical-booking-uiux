@@ -71,7 +71,7 @@ providing confirmation feedback
 🏠 Homepage.png
 
 
-📅 Booking Screen.png
+📅 Booking screen.png
 
 ✅ Booking success.png
 
