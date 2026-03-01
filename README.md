@@ -79,4 +79,4 @@ providing confirmation feedback
 
 🔗 Figma Prototype
 
-👉 View Interactive Prototype:https://www.figma.com/proto/cpLgpQc9VUhblW0RW6G18s/Dental-clinic-application--Community-?node-id=0-1&t=DqWkIC6D5fYYfckr-1
+👉 View Interactive Prototype:https://www.figma.com/proto/cpLgpQc9VUhblW0RW6G18s/Dental-clinic-application--Community-?node-id=159-27&p=f&t=VciHN00VIIvyFiwp-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=103%3A258
